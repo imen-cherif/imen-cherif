@@ -1,7 +1,8 @@
 ### Hello 👋
 
 I am a business analytics and information technology student who is extremely passionate about data science, aerospace and literature.
-You can reach out to me on Linkedin: https://www.linkedin.com/in/imen-cherif-10052000/
+You can find me on Linkedin: https://www.linkedin.com/in/imen-cherif-10052000/
+My very short resume using Azure Static Web Apps: https://ambitious-grass-0d535c603.2.azurestaticapps.net/
 
 <!--
 **imen-cherif/imen-cherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
