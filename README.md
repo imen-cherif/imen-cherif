@@ -2,6 +2,7 @@
 
 I am a business analytics and information technology student who is extremely passionate about data science, aerospace and literature.
 You can find me on Linkedin: https://www.linkedin.com/in/imen-cherif-10052000/
+<br>
 My very short resume using Azure Static Web Apps: https://ambitious-grass-0d535c603.2.azurestaticapps.net/
 
 <!--
