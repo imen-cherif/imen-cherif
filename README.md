@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+I am a business analytics and information technology student who is extremely passionate about data science, aerospace and literature.
+You can reach out to me on Linkedin: https://www.linkedin.com/in/imen-cherif-10052000/
 
 <!--
 **imen-cherif/imen-cherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
