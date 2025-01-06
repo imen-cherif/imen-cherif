@@ -3,7 +3,7 @@
 I am a business analytics and information technology student who is extremely passionate about data science, aerospace and literature. <br>
 You can find me on LinkedIn: https://www.linkedin.com/in/imen-cherif-10052000/
 <br>
-My personal website: https://imencherif152.wixsite.com/personalwebsite
+
 
 <!--
 **imen-cherif/imen-cherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
