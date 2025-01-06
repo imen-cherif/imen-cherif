@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a business analytics and information technology student who is extremely passionate about data science, aerospace and literature. <br>
+I am a data science and network student who is extremely passionate about statistics, aerospace and literature. <br>
 You can find me on LinkedIn: https://www.linkedin.com/in/imen-cherif-10052000/
 <br>
 
